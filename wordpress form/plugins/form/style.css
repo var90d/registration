@@ -1,0 +1,7 @@
+#contactForm input[type="text"],
+#contactForm textarea {
+    width: 100%;
+}
+.formGroup{
+    margin-bottom: 15px;
+}

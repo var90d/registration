@@ -1,0 +1,5 @@
+<?php 
+/* TemplateName: registrationform*/
+?>
+
+hello
